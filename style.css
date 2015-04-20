@@ -1,0 +1,48 @@
+img{
+				width:75%;
+				positon:absolute;
+				top:0px;	
+			}
+			
+			.click-a{
+				height:330px;
+				width:200px;
+				position:absolute;
+				cursor:pointer;
+			}
+			
+			.click-b{
+				height:100px;
+				width:230px;
+				position:absolute;
+				left:900px;
+				cursor:pointer;
+			}
+			
+			#one{
+				top:315px;
+				left:300px;
+			}
+			
+			#two{
+				top:315px;
+				left:520px;
+			}
+			
+			#three{
+				top:660px;
+				left:300px;
+			}
+			
+			#four{
+				top:660px;
+				left:520px;
+			}
+			
+			#five{
+				top:600px;
+			}
+			
+			#six{
+				top:770px;
+			}

@@ -9,7 +9,7 @@
 				margin-left: auto;
     			margin-right: auto;
     			width: 70%;
-				height:1223px;
+				height:1496px;
 				positon:relative;	
 			}
 			
@@ -22,13 +22,13 @@
 				margin-left: auto;
     			margin-right: auto;
 				width:70%;
-				height:1223px;
-				margin-top:-1223px;
+				height:1496px;
+				margin-top:-1496px;
 				/*border: 1px solid green;*/
 			}
 			
 			.click-a{
-				height:330px;
+				height:300px;
 				width:20%;
 				position:relative;
 				cursor:pointer;
@@ -45,22 +45,22 @@
 			}
 			
 			#one{
-				top:306px;
+				top:336px;
 				left:12%;
 			}
 			
 			#two{
-				top:-25px;
+				top:35px;
 				left:34%;
 			}
 			
 			#three{
-				top:-20px;
+				top:38px;
 				left:12%;
 			}
 			
 			#four{
-				top:-352px;
+				top:-265px;
 				left:34%;
 			}
 			
@@ -70,13 +70,27 @@
 			}
 			
 			#six{
-				top:-700px;
+				top:-690px;
 				left:73%;
 			}
 			
 			#seven{
-				top:-625px;
+				top:-650px;
 				left:73%;
+			}
+			
+			#eight{
+				/*border:1px solid green;*/
+				left:12%;
+				height:50px;
+				top:-115px;
+			}
+			
+			#nine{
+				/*border:1px solid green;*/
+				left:12%;
+				height:60px;
+				top:-100px
 			}
 			
 			#footer{
